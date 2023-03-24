@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    padding: 40px;
+}
+h1{
+    color: white;
+}
+p{
+    text-align: center;
+    color: black;
+}
+.card{
+    color: black;
+}
+h3{
+    color: white;
+}
