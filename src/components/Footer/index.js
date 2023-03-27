@@ -13,9 +13,6 @@ export default function Footer() {
                     </a>
                     <span class="text-muted">© Dev Web Avançado</span>
                 </div>
-                <div class="nav col-md-4 justify-content-end">
-                    <div>Você está em: {location.pathname} </div>
-                </div>
             </footer>
         </div>
     )
